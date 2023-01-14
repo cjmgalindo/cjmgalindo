@@ -13,9 +13,9 @@
 
 ```javascript
 const john = {
-  code: ["Javascript", "Typescript", "HTML", "CSS", "SQL"],
+  code: ["Javascript", "HTML", "CSS", "SQL"],
   tools: ["React", "Redux", "NodeJS", "ModuleCSS", "Tailwind", "Styled-Components", "Sass", "Less", "Git"],
-  cloud: ["AWS", "Azure"]
+  cloud: ["AWS"]
 }
 ```
 
