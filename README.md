@@ -10,8 +10,8 @@ About me...
 Languages and Tools:
 ```javascript
 const john = {
-  code: ["Javascript", "HTML", "CSS", "SQL"],
-  tools: ["React", "Redux", "NodeJS", "ModuleCSS", "Tailwind", "Styled-Components", "Sass", "Less", "Git"],
+  code: ["Javascript", "HTML", "CSS"],
+  tools: ["React", "Bootstrap","ModuleCSS", "Tailwind", "Styled-Components", "Sass", "Less", "Git"],
   cloud: ["AWS"]
 }
 ```
