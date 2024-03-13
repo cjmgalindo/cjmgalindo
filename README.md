@@ -11,7 +11,7 @@ Languages and Tools:
 ```javascript
 const john = {
   code: ["Javascript", "HTML", "CSS"],
-  tools: ["React", "Bootstrap","ModuleCSS", "Tailwind", "Styled-Components", "Sass", "Less", "Git"],
+  tools: ["React", "Bootstrap", "Styled-Components", "Sass", "Less", "Git"],
   cloud: ["AWS"]
 }
 ```
